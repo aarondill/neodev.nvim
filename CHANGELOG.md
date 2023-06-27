@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.6.0](https://github.com/folke/neodev.nvim/compare/v2.5.2...v2.6.0) (2023-06-27)
+
+
+### Features
+
+* added lpeg types ([4233305](https://github.com/folke/neodev.nvim/commit/4233305906767488d3cec31b3a02287d99886e08))
+* added vim.iter, vim.version and vim.secure. Fixes [#153](https://github.com/folke/neodev.nvim/issues/153) ([76bdb81](https://github.com/folke/neodev.nvim/commit/76bdb81a3cd45ff0f42c7d427e3e67fe6e39593c))
+
+
+### Bug Fixes
+
+* correctly type vim.iter. See [#153](https://github.com/folke/neodev.nvim/issues/153) ([5136343](https://github.com/folke/neodev.nvim/commit/5136343889f068fda32467cefd41029ca6bdf4d9))
+
 ## [2.5.2](https://github.com/folke/neodev.nvim/compare/v2.5.1...v2.5.2) (2023-03-24)
 
 
